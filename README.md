@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VikramToprani
-- 👀 I’m interested in Pyhton development & data analysis
+- 👀 I’m interested in Python development & data analysis
 - 🌱 I’m currently learning python & AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
